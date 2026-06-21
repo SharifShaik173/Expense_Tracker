@@ -24,8 +24,7 @@ expense-tracker/
 ## 🛠️ Requirements
  
 - Python 3.6 or higher
-- No external/third-party packages — the project only uses Python's built-in `csv` and `datetime` modules
-See [`requirements.txt`](requirements.txt) for details.
+- No external/third-party packages — the project only uses Python's built-in `csv` and `datetime` modules.
  
 ## 🚀 Installation
  
